@@ -4,3 +4,4 @@ console.log("Mirzan");
 console.log("Mirzan");
 console.log("Mirzan");
 console.log("Mirzan");
+console.log("Khureshi");
